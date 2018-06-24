@@ -1,2 +1,2 @@
 # dr-wonder
-Website for a shop
+Website for a small business
